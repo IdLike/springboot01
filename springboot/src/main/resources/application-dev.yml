@@ -1,0 +1,11 @@
+server:
+  context-path: /springboot
+  port: 8080
+name: 张三
+age: 14
+content: "name:${name},age:${age}"
+user:
+  username: zhangsan
+  age: 15
+  realname: 小张
+

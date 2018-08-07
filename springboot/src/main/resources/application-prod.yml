@@ -1,0 +1,8 @@
+server:
+  context-path: /springboot
+  port: 8082
+user:
+  username: zhangsan
+  age: 15
+  realname: 张三
+
